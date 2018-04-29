@@ -1,9 +1,6 @@
 import urllib.request
 import json
 
-# def weather_finder(arg):
-#    pass
-
 def weather_fetcher():
     n = input("City or ZIP? ")
 
@@ -40,4 +37,4 @@ def weather_fetcher():
         exit()
 
 weather_fetcher()
-pass
+input('Enter...')
