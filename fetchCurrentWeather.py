@@ -2,7 +2,7 @@ import urllib.request
 import json
 
 def weather_fetcher():
-    
+
     # User determines whether to enter city or zip code
     n = input("Would you like to enter City or ZIP? ")
 
