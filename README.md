@@ -1,4 +1,5 @@
 # fetch-current-weather
+A script that can scrape the current weather
 
 ### Overview
 This script returns the current weather and temperature based on the city or ZIP code provided by the user.
